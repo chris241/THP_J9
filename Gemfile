@@ -1,0 +1,5 @@
+gem "watir"
+gem "bundler"
+gem "rspec"
+gem "dotenv"
+gem "pry" 
