@@ -24,4 +24,5 @@ def perform
 	a = check_if_user_gave_input
 	search(a)
 end
+
 perform
